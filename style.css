@@ -1,0 +1,28 @@
+:root{
+    --white-color: #FFF;
+    --black-dad: #2F303A;
+    --blue-ocean: #2196F3;
+    --gray-mother: rgba(255, 255, 255, 0.60);
+    --light-gray:#F5F4FA;
+    --black-text:#212121;
+}    
+
+
+header{
+    background-color: var(--white-color);
+}
+
+main{
+    background-color: var(--light-gray);
+}
+
+footer{
+    background-color: var(--black-dad);
+    a{color: var(--white-color);}
+
+}
+
+p{
+    color:var(--black-text)
+}
+button{background-color: var(--blue-ocean)};
