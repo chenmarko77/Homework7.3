@@ -14,7 +14,10 @@ header{
 
 main{
     background-color: var(--light-gray);
+section
 }
+.container1{background-color: var(--black-dad);color: var(--white-color);}
+.container2{background-color: var(--white-color);}
 
 footer{
     background-color: var(--black-dad);
@@ -25,4 +28,5 @@ footer{
 p{
     color:var(--black-text)
 }
-button{background-color: var(--blue-ocean)};
+button{background-color: var(--blue-ocean);
+}
