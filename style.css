@@ -1,32 +1,37 @@
-:root{
-    --white-color: #FFF;
-    --black-dad: #2F303A;
-    --blue-ocean: #2196F3;
-    --gray-mother: rgba(255, 255, 255, 0.60);
-    --light-gray:#F5F4FA;
-    --black-text:#212121;
-}    
-
-
-header{
-    background-color: var(--white-color);
+:root {
+  --white-color: #fff;
+  --black-dad: #2f303a;
+  --blue-ocean: #2196f3;
+  --gray-mother: rgba(255, 255, 255, 0.6);
+  --light-gray: #f5f4fa;
+  --black-text: #212121;
 }
 
-main{
-    background-color: var(--light-gray);
-section
-}
-.container1{background-color: var(--black-dad);color: var(--white-color);}
-.container2{background-color: var(--white-color);}
-
-footer{
-    background-color: var(--black-dad);
-    a{color: var(--white-color);}
-
+header {
+  background-color: var(--white-color);
 }
 
-p{
-    color:var(--black-text)
+main {
+  background-color: var(--light-gray);
 }
-button{background-color: var(--blue-ocean);
+.container1 {
+  background-color: var(--black-dad);
+  color: var(--white-color);
+}
+.container2 {
+  background-color: var(--white-color);
+}
+
+footer {
+  background-color: var(--black-dad);
+}
+a {
+  color: var(--white-color);
+}
+
+p {
+  color: var(--black-text);
+}
+button {
+  background-color: var(--blue-ocean);
 }
